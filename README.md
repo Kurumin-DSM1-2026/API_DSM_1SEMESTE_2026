@@ -2,14 +2,17 @@
 
 Projeto destinado a API - FATEC - Sistema de análise de crédito BCB
 
-Integrantes:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. Nícolas César Silva Ferreira
-9.
+### Integrantes
+
+| Função         | Nome                                | LinkedIn | Gitbub   |
+| :------------- | :---------------------------------- | :------- | :------- | 
+| `Dev Team    ` | `                                 ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |
+| `Scrum Master` | `Matheus Henrique da Cunha        ` |          |          |
+| `Product Owner`| `Nícolas César Silva Ferreira     ` |          |          |
+| `Dev Team    ` | `                                 ` |          |          |  
