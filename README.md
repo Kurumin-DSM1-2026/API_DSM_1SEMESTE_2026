@@ -5,14 +5,14 @@ Projeto destinado a API - FATEC - Sistema de análise de crédito BCB
 
 ### Integrantes
 
-| Função         | Nome                                | LinkedIn | Gitbub   |
-| :------------- | :---------------------------------- | :------- | :------- | 
-| `Dev Team    ` | `                                 ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |
-| `Scrum Master` | `Matheus Henrique da Cunha        ` |          |          |
-| `Product Owner`| `Nícolas César Silva Ferreira     ` |          |          |
-| `Dev Team    ` | `                                 ` |          |          |  
+| Função         | Nome                                | LinkedIn | Gitbub      |
+| :------------- | :---------------------------------- | :------- | :---------- | 
+| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `Karina Martins Molina            ` |          |karina-molina|
+| `Scrum Master` | `Matheus Henrique da Cunha        ` |          |             |
+| `Product Owner`| `Nícolas César Silva Ferreira     ` |          |             |
+| `Dev Team    ` | `                                 ` |          |             |  
