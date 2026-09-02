@@ -10,7 +10,7 @@ Projeto destinado a API - FATEC - Sistema de análise de crédito BCB
 | `Dev Team    ` | `                                 ` |          |             |
 | `Dev Team    ` | `                                 ` |          |             |
 | `Dev Team    ` | `                                 ` |          |             |
-| `Dev Team    ` | `                                 ` |          |             |
+| `Dev Team    ` | `Gabriel Hatano Rocha             ` |          |gabe435      |
 | `Dev Team    ` | `Rebeca Rodrigues da Silva        ` |          |rebeca-rod   |
 | `Dev Team    ` | `Karina Martins Molina            ` |          |karina-molina|
 | `Scrum Master` | `Matheus Henrique da Cunha        ` |          |             |
