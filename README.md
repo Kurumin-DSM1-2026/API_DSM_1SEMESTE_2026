@@ -4,19 +4,18 @@ Projeto destinado a API - FATEC - Sistema de análise de crédito BCB
 
 ---
 
-## Product Backlog (WIP)
+## Product Backlog
 
-| ID | Descrição | Estimativa | Sprint |
-| :-: | :--- | :-: | :-: |
-| **US1** | Como analista de crédito, quero consultar os índices de inadimplência e endividamento por região,para avaliar o risco de inadimplência antes de aprovar uma concessão de crédito. | | |
-| **US2** | Como analista de crédito, quero visualizar dados demográficos e econômicos locais,para estimar o potencial financeiro dos solicitantes de uma região. | | |
-| **US3** | Como analista de crédito, quero alternar a visualização dos dados entre níveis estaduais, microrregionais e municipais,para realizar análises de risco adequadas à escala do negócio. | | |
-| **US4** | Como analista de crédito, quero visualizar a evolução histórica dos dados financeiros e econômicos,para identificar a trajetória de melhora ou piora no perfil da região. | | |
-| **US5** | Como analista de crédito, quero aplicar filtros por intervalo de tempo, localização e faixas de renda,para isolar apenas os parâmetros relevantes para a minha avaliação. | | |
-| **US6** | Como analista de crédito, quero consultar estimativas de movimentação financeira e renda informal da região,para embasar decisões em locais com menor cobertura bancária tradicional. | | |
-| **US7** | Como analista de crédito, quero identificar áreas com alto índice de vulnerabilidade socioeconômica,para direcionar produtos de crédito alternativo ou microcrédito orientado. | | |
-| **US8** | Como analista de crédito, quero acessar uma seção explicativa sobre as fontes de dados e métodos de consolidação,para compreender a origem e a confiabilidade das estatísticas apresentadas. | | |
-
+| ID | Descrição | Sprint |
+| :-: | :--- | :-: |
+| **US1** | Como analista de crédito, quero consultar os índices de inadimplência e endividamento por região, para avaliar o risco de inadimplência antes de aprovar uma concessão de crédito. | 1 |
+| **US2** | Como analista de crédito, quero visualizar dados demográficos e econômicos locais, para estimar o potencial financeiro dos solicitantes de uma região. | 1 |
+| **US3** | Como analista de crédito, quero alternar a visualização dos dados entre níveis estaduais, microrregionais e municipais, para realizar análises de risco adequadas à escala do negócio. | 2 |
+| **US4** | Como analista de crédito, quero visualizar a evolução histórica dos dados financeiros e econômicos, para identificar a trajetória de melhora ou piora no perfil da região. | 2 |
+| **US5** | Como analista de crédito, quero aplicar filtros por intervalo de tempo, localização e faixas de renda, para isolar apenas os parâmetros relevantes para a minha avaliação. | 2 |
+| **US6** | Como analista de crédito, quero consultar estimativas de movimentação financeira e renda informal da região, para embasar decisões em locais com menor cobertura bancária tradicional. | 3 |
+| **US7** | Como analista de crédito, quero identificar áreas com alto índice de vulnerabilidade socioeconômica, para direcionar produtos de crédito alternativo ou microcrédito orientado. | 3 |
+| **US8** | Como analista de crédito, quero acessar uma seção explicativa sobre as fontes de dados e métodos de consolidação, para compreender a origem e a confiabilidade das estatísticas apresentadas. | 3 |
 ---
 
 ## Colaboradores
