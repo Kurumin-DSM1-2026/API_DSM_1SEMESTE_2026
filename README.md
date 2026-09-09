@@ -51,14 +51,14 @@ O análise e processamento de dados é feito com **Google Colab**, e resultado �
 
 | ID | Descrição | Sprint |
 | :-: | :--- | :-: |
-| **US1** | ... | 1 |
-| **US2** | ... | 1 |
-| **US3** | ... | 2 |
-| **US4** | ... | 2 |
-| **US5** | ... | 2 |
-| **US6** | ... | 3 |
-| **US7** | ... | 3 |
-| **US8** | ... | 3 |
+| **US1** | Como analista de crédito,Quero visualizar um mapa/gráfico de inadimplência de recuperação rápida por região,Para que eu possa avaliar o risco regional e fundamentar a decisão de concessão de crédito. | 1 |
+| **US2** | Como analista de crédito, Quero visualizar a proporção entre dívidas saudáveis e críticas da população de uma região, Para que eu possa identificar o perfil de risco de endividamento daquela localidade. | 1 |
+| **US3** | Como analista de crédito, Quero comparar as taxas de juros de crédito praticadas pelas principais instituições financeiras do Brasil, Para que eu possa identificar a competitividade e os padrões praticados pelo mercado. | 2 |
+| **US4** | Como analista de crédito, Quero consultar indicadores de dívidas e inadimplência associadas a jogos de apostas (Bets) por região, Para que eu possa ponderar o impacto desse perfil de risco na aprovação de crédito. | 2 |
+| **US5** | Como analista de crédito, Quero visualizar dados demográficos e socioeconômicos da região do solicitante, Para que eu possa estimar o potencial financeiro e a capacidade de pagamento local. | 2 |
+| **US6** | ... | ? |
+| **US7** | ... | ? |
+| **US8** | Como cliente, Quero acessar uma página institucional explicando a metodologia de coleta e cálculo dos dados, Para que eu possa compreender a origem e validar a confiabilidade das estatísticas exibidas. | 3 |
 
 ---
 
