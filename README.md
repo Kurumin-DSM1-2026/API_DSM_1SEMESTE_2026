@@ -10,7 +10,7 @@
   <a href="#desafio"><img src="https://img.shields.io/badge/Desafio-grey?style=for-the-badge" alt="Desafio"></a> 
   <a href="#solucao"><img src="https://img.shields.io/badge/Solução-grey?style=for-the-badge" alt="Solução"></a>
 </p>
-<p><a href="#crono"><img src="https://img.shields.io/badge/Cronograma-grey?style=for-the-badge" alt="Cronograma"></a> </p>
+<p><a href="#crono"><img src="https://img.shields.io/badge/Cronograma-grey?style=for-the-badge" alt="Cronograma"></a></p>
 <p><a href="#backlog"><img src="https://img.shields.io/badge/Backlog_do_Produto-grey?style=for-the-badge" alt="Backlog do Produto"></a></p>
 <p>
   <a href="#dready"><img src="https://img.shields.io/badge/DoR-grey?style=for-the-badge" alt="DoR"></a> 
@@ -47,7 +47,7 @@ O análise e processamento de dados é feito com **Google Colab**, e resultado �
 
 ---
 
-## 📋 Backlog do Produto (WIP) <a id="backlog"></a>
+## 📋 Backlog do Produto<a id="backlog"></a>
 
 | ID    | Sprint | Descrição | Critérios de aceitação |
 | :---: | :---: | :--- | :--- |
