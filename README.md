@@ -77,9 +77,9 @@ O desenvolvimento do *CEUCI* está estruturado em **3 sprints**, focando na evol
 
 | Sprint | Foco do MVP | Entregas Principais | Vídeo da Sprint | Status |
 | :--- | :--- | :--- | :--- | :----: |
-| **[Sprint 1](./docs/sprint-backlog/sprint-01.md)**<br>*(07/09 - 27/09)* | **Base de dados** | Definição de bases de dados do projeto e desenvolvimento de funções que façam download e tratamento dos arquivos de dados. |  | ✅ |
-| **[Sprint 2](./docs/sprint-backlog/sprint-02.md)**<br>*(05/10 - 25/10)* | **Aperfeiçoamento** | Criação de gráficos direcionados a Bets, estrutura de navegação básica e definição da métrica para Score. |  | ⏳ |
-| **[Sprint 3](./docs/sprint-backlog/sprint-03.md)**<br>*(02/11 - 22/11)* | **Refinamento** | Responsividade e integração das telas ao backend e implementação da ferramenta de Score. |  | ⏳ |
+| **Sprint 1**<br>*(07/09 - 27/09)* | **Base de dados** | Definição de bases de dados do projeto e desenvolvimento de funções que façam download e tratamento dos arquivos de dados. | https://bit.ly/4yUgmi4 | ✅ |
+| **Sprint 2**<br>*(05/10 - 25/10)* | **Aperfeiçoamento** | Criação de gráficos direcionados a Bets, estrutura de navegação básica e definição da métrica para Score. |  | ⏳ |
+| **Sprint 3**<br>*(02/11 - 22/11)* | **Refinamento** | Responsividade e integração das telas ao backend e implementação da ferramenta de Score. |  | ⏳ |
 
 ---
 
@@ -152,7 +152,5 @@ João Manoel de Almeida Sales e Silva | Developer | !LinkedIn | <a href="https:/
 Luan Henrique Borsoi Alves | Developer | !LinkedIn | <a href="https://github.com/luanhba"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/> </a>
 Karina Martins Molina | Developer | !LinkedIn | <a href="https://github.com/karina-molina"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/> </a>
 Rebeca Rodrigues da Silva | Developer | !LinkedIn | <a href="https://github.com/rebeca-rod"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/> </a> 
-
-
 
 ---
