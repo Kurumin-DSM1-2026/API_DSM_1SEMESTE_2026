@@ -153,5 +153,4 @@ Luan Henrique Borsoi Alves | Developer | !LinkedIn | <a href="https://github.com
 Karina Martins Molina | Developer | !LinkedIn | <a href="https://github.com/karina-molina"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/> </a>
 Rebeca Rodrigues da Silva | Developer | !LinkedIn | <a href="https://github.com/rebeca-rod"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/> </a> 
 
-
 ---
