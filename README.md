@@ -57,17 +57,17 @@ A aplicação é apresentada por meio de um painel interativo (dashboard), compo
 A análise e o processamento dos dados são realizados utilizando  **Google Colab e Python**, enquanto a interface da aplicação é desenvolvida com **HTML e CSS**. A comunicação entre o processamento dos dados e a aplicação web é realizada por meio do **Flask**.
 
 ### Coleta e Processamento de Dados
-!Python &#xa0;
-!Flask &#xa0;
-!Pandas &#xa0;
-!Google Colab &#xa0;
-!SQL &#xa0;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &#xa0;
+![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white) &#xa0;
+![Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white) &#xa0;
+![Google Colab](https://img.shields.io/badge/Google%20Colab-3776AB?style=for-the-badge&logo=googlecolab&logoColor=white) &#xa0;
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white) &#xa0;
 
-> _**Notebook:** Abrir no Google Colab_
+> _**Notebook:** [Abrir no Google Colab](https://colab.research.google.com/drive/1Ln9iksPbjt-FFvJKjqi9rXGdUwQIzkZ3?usp=sharing)_
 
 ### Frontend  
-!HTML5 &#xa0;
-!CSS3 &#xa0;
+![HTML5](https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=white) &#xa0;
+![CSS3](https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=white) &#xa0;
 
 ---
 
